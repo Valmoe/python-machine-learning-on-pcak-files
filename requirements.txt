@@ -1,0 +1,15 @@
+python -m pip install elasticsearch
+python -m pip install elasticsearch-async
+
+
+//passwd: El@32Erqew deploymrnt name: elsearch
+
+
+details:
+
+
+Username
+elastic
+Password
+
+wzYs9KTsJJFTea64ROYhyqtx
